@@ -12,7 +12,14 @@ object SpeakerTogetherApp extends App {
   val atLeastTwoOccurrences = groupedBySpeaker.filter { case (_, occ) => occ.size > 1 }
   val myName = "Fabio Tiriticco"
 
-  val forAllConf = allConferences.map { conference =>
+  var speakersByAmountOfCrossingsWithMe = groupedBySpeaker
+    .toList
+    .sortBy { case (_, occ) => occ.size }
+    .reverse
+    .map { case (name, list) => (name, list.size)}
+
+  val forAllConf = allConferences
+    .map { conference =>
     {
       val speakersAtThisConference = groupedByConf(conference).toSet.map[String](_.normalizedName)
       val timesISpokeWithOtherSpeakerAtThisConference = atLeastTwoOccurrences
@@ -37,12 +44,11 @@ object SpeakerTogetherApp extends App {
 
       (conference, timesISpokeWithOtherSpeakerAtThisConference)
     }
-  }
-
-  val asAMap = forAllConf.filter { case (_, list) => list.size > 1 }.toMap
+  }.filter { case (_, list) => list.size > 1 }
+    .toMap
 
   // used to print out a file for a specific conference
-  // printOutConferenceCsv("jlove2020", asAMap("JLove 2020"))
+  // printOutConferenceCsv("jlove2020", forAllConf("JLove 2020"))
 
   println("read " + speakers.size + " speakers from " + groupedByConf.keys.size + " conferences")
 
