@@ -1,13 +1,13 @@
 # Speaker Together
 
 Most conferences [I spoke at in 2020](https://ticofab.io/talks/) were remote,
-and it looks like this trend is not going to reverse anytime soon. One of the
-things I miss the most about the IRL events are the speaker dinners. In a remote
-setting, it's way more difficult to connect than when seeing people walking around.
+and it looks like this trend is not reversing anytime soon. One of the
+things I miss the most about the IRL events are the speaker dinners. The digital
+setting makes connecting more difficult than when having food together.
 
-While looking at the list of speakers at [JLove 2020](https://jlove.konfy.care/),
+While looking at the [JLove 2020](https://jlove.konfy.care/) speakers,
 I wondered how many of them I "crossed" at previous conferences without even realizing.
-So I sat down, collected the speakers list of all the events where I spoke before
+So I sat down, collected data from all the events that I spoke at before
 and wrote this little scripty app to crunch the (tiny) numbers.
 
 For instance, this is how many times I crossed before the speakers of JLove 2020:
@@ -19,8 +19,9 @@ For instance, this is how many times I crossed before the speakers of JLove 2020
 I am going to update this project with as my speaking data grows.
 
 While I don't plan to make this more complex than it is now, if other folks find this
-interesting, we could work together and expand both dataset and functionality. Do get in touch if 
-that's the case!
+interesting, we could work together and expand both dataset and functionality. 
+
+Do get in touch if that's the case!
 
 ## License
 
