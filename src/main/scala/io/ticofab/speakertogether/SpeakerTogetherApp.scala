@@ -16,7 +16,7 @@ object SpeakerTogetherApp extends App {
     .toList
     .sortBy { case (_, occ) => occ.size }
     .reverse
-    .map { case (name, list) => (name, list.size)}
+    .map { case (_, list) => (list.head.name, list.size)}
 
   val forAllConf = allConferences
     .map { conference =>
