@@ -26,7 +26,7 @@ Please open a PR if you want your account linked here (or if you would like your
 
 | Name | Events in common |
 | :---- | :---------------- |
-| Adam Sandor | 8 |
+| [Adam Sandor](https://twitter.com/adamsand0r) | 8 |
 | Jon Pretty | 7 |
 | Justin Kaeser | 5 |
 | Hugh McKee | 5 |
@@ -43,13 +43,13 @@ Please open a PR if you want your account linked here (or if you would like your
 | Tomasz Godzik | 3 |
 | Jason Yee | 3 |
 | Sébastien Doeraene | 3 |
-| Wiem Zine Elabidine | 3 |
+| [Wiem Zine Elabidine](https://twitter.com/WiemZin) | 3 |
 | Thiago de Faria | 3 |
 | Venkat Subramaniam | 3 |
 | Alessandro Confetti | 3 |
 | Mark Heckler | 3 |
 | James Thomas | 3 |
-| Nicolas Rinaudo | 3 |
+| [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo) | 3 |
 | Liz Rice | 3 |
 | Daniela Sfregola | 3 |
 | Stéphane Tankoua | 3 |
@@ -94,7 +94,7 @@ Please open a PR if you want your account linked here (or if you would like your
 | Alex Fernández | 2 |
 | Kim van Wilgen | 2 |
 | Kévin Rauscher | 2 |
-| Pierangelo Cecchetto | 2 |
+| [Pierangelo Cecchetto](https://twitter.com/pierangelocecc) | 2 |
 | Juliette Reinders Folmer | 2 |
 | Łukasz Biały | 2 |
 | Alexander Podkhalyuzin | 2 |
@@ -161,7 +161,6 @@ Please open a PR if you want your account linked here (or if you would like your
 | Hugo Sousa | 2 |
 | Jacek Leśkow | 2 |
 | Nikolay Tsvetkov | 2 |
-
 
 ## License
 
