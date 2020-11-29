@@ -18,9 +18,7 @@ For instance, this is how many times I crossed before the speakers of JLove 2020
 I am going to update this project with as my speaking data grows.
 
 While I don't plan to make this more complex than it is now, if other folks find this
-interesting, we could work together and expand both dataset and functionality. 
-
-Do get in touch if that's the case!
+interesting, we could work together and expand both dataset and functionality.
 
 ## License
 
