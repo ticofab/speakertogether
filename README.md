@@ -2,8 +2,7 @@
 
 Most conferences [I spoke at in 2020](https://ticofab.io/talks/) were remote,
 and it looks like this trend is not reversing anytime soon. One of the
-things I miss the most about the IRL events are the speaker dinners. The digital
-setting makes connecting more difficult than when having food together.
+things I miss the most about the IRL events are the speaker dinners.
 
 While looking at the [JLove 2020](https://jlove.konfy.care/) speakers,
 I wondered how many of them I "crossed" at previous conferences without even realizing.
@@ -19,9 +18,7 @@ For instance, this is how many times I crossed before the speakers of JLove 2020
 I am going to update this project with as my speaking data grows.
 
 While I don't plan to make this more complex than it is now, if other folks find this
-interesting, we could work together and expand both dataset and functionality. 
-
-Do get in touch if that's the case!
+interesting, we could work together and expand both dataset and functionality.
 
 ## Speakers at a common event (at least twice)
 
