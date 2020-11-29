@@ -2,8 +2,7 @@
 
 Most conferences [I spoke at in 2020](https://ticofab.io/talks/) were remote,
 and it looks like this trend is not reversing anytime soon. One of the
-things I miss the most about the IRL events are the speaker dinners. The digital
-setting makes connecting more difficult than when having food together.
+things I miss the most about the IRL events are the speaker dinners.
 
 While looking at the [JLove 2020](https://jlove.konfy.care/) speakers,
 I wondered how many of them I "crossed" at previous conferences without even realizing.
