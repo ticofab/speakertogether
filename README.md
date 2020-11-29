@@ -22,7 +22,7 @@ interesting, we could work together and expand both dataset and functionality.
 
 ## Speakers at a common event (at least twice)
 
-Please open a PR if you want your account linked here if you would like your name removed.
+Please open a PR if you want your account linked here (or if you would like your name removed).
 
 | Name | Events in common |
 | :---- | :---------------- |
