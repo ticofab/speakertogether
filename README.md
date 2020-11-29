@@ -20,7 +20,7 @@ I am going to update this project with as my speaking data grows.
 While I don't plan to make this more complex than it is now, if other folks find this
 interesting, we could work together and expand both dataset and functionality.
 
-## Speakers at a common event (at least twice)
+## Speakers at the same event as myself (at least twice)
 
 Please open a PR if you want your account linked here (or if you would like your name removed).
 
