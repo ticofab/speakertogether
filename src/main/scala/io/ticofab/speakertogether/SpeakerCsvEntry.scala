@@ -24,7 +24,8 @@ object SpeakerEnriched {
     "alessandro vozza" -> "https://twitter.com/bongo",
     "wiem zine elabidine" -> "https://twitter.com/WiemZin",
     "nicolas rinaudo" -> "https://twitter.com/NicolasRinaudo",
-    "pierangelo cecchetto" -> "https://twitter.com/pierangelocecc"
+    "pierangelo cecchetto" -> "https://twitter.com/pierangelocecc",
+    "paulo lopes" -> "https://twitter.com/pml0pes"
   )
 
 }
