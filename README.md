@@ -25,12 +25,12 @@ interesting, we could work together and expand both dataset and functionality.
 Please open a PR if you want your account linked here (or if you would like your name removed).
 
 | Name | Events in common |
-| :---- | :---------------- |
+| :--- | :--------------- |
 | [Adam Sandor](https://twitter.com/adamsand0r) | 8 |
 | Jon Pretty | 7 |
 | Justin Kaeser | 5 |
 | Hugh McKee | 5 |
-| Alessandro Vozza | 4 |
+| [Alessandro Vozza](https://twitter.com/bongo) | 4 |
 | Jacek Kunicki | 4 |
 | Renato Cavalcanti | 4 |
 | Holly Cummins | 4 |
@@ -58,6 +58,7 @@ Please open a PR if you want your account linked here (or if you would like your
 | Jarek Ratajski | 3 |
 | Alessandro (cirpo) Cinelli | 3 |
 | Krzysztof Romanowski | 3 |
+| Adam Warski | 3 |
 | Oli Makhasoeva | 3 |
 | Daniel Gebler | 3 |
 | Viktor Gamov | 3 |
@@ -130,6 +131,7 @@ Please open a PR if you want your account linked here (or if you would like your
 | Lauren Schaefer | 2 |
 | Roman Ivanov | 2 |
 | Paweł Rzeszuciński | 2 |
+| Ivan Topolnjak | 2 |
 | Bert Jan Schrijver | 2 |
 | Guillaume Martres | 2 |
 | Avinash Changa | 2 |
@@ -143,7 +145,6 @@ Please open a PR if you want your account linked here (or if you would like your
 | Trisha Gee | 2 |
 | Joost Heijkoop | 2 |
 | Paweł Kamiński | 2 |
-| Adam Warski | 2 |
 | Ayush Mittal | 2 |
 | Maria Gómez | 2 |
 | Phil Nash | 2 |

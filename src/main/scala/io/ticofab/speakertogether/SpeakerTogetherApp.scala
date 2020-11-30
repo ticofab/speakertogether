@@ -1,6 +1,7 @@
 package io.ticofab.speakertogether
 
 import io.ticofab.speakertogether.CsvUtil.parseSpeakerCsv
+import io.ticofab.speakertogether.MarkdownUtil.createMarkdownTable
 
 object SpeakerTogetherApp extends App {
 
@@ -17,6 +18,9 @@ object SpeakerTogetherApp extends App {
     .sortBy { case (_, occ) => occ.size }
     .reverse
     .map { case (_, list) => (list.head.name, list.size)}
+    .filter { case (name, _) => name != myName}
+  val markdown = createMarkdownTable(
+    speakersByAmountOfCrossingsWithMe.filter{ case (_, i) => i > 1 } )
 
   val forAllConf = allConferences
     .map { conference =>
