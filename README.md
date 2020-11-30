@@ -100,7 +100,7 @@ Please open a PR if you want your account linked here (or if you would like your
 | Łukasz Biały | 2 |
 | Alexander Podkhalyuzin | 2 |
 | Dennis Traub | 2 |
-| Paulo Lopes | 2 |
+| [Paulo Lopes](https://twitter.com/pml0pes) | 2 |
 | Luka Jacobowitz | 2 |
 | Mata Haggis | 2 |
 | Anne Currie | 2 |
