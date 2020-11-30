@@ -6,6 +6,7 @@ import io.ticofab.speakertogether.MarkdownUtil.createMarkdownTable
 object SpeakerTogetherApp extends App {
 
   val speakers = parseSpeakerCsv("allspeakersallevents.csv")
+    .map(SpeakerEnriched.fromSpeakerCsvEntry)
   val groupedByConf = speakers.groupBy(_.conference)
   val allConferences = groupedByConf.keys.toSet
 
@@ -17,8 +18,14 @@ object SpeakerTogetherApp extends App {
     .toList
     .sortBy { case (_, occ) => occ.size }
     .reverse
-    .map { case (_, list) => (list.head.name, list.size)}
+    .map { case (_, list) =>
+      val head = list.head // don't do for serious things
+      val name = head.maybeTwUrl.fold(head.name)(twUrl => "[" + head.name + "](" + twUrl+ ")")
+      (name, list.size)
+    }
     .filter { case (name, _) => name != myName}
+
+  // used to generate the markdown that I manually copy/paste onto the readme file
   val markdown = createMarkdownTable(
     speakersByAmountOfCrossingsWithMe.filter{ case (_, i) => i > 1 } )
 

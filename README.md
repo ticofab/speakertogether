@@ -101,6 +101,7 @@ Please open a PR if you want your account linked here (or if you would like your
 | Alexander Podkhalyuzin | 2 |
 | Dennis Traub | 2 |
 | Paulo Lopes | 2 |
+| Luka Jacobowitz | 2 |
 | Mata Haggis | 2 |
 | Anne Currie | 2 |
 | Kai Waehner | 2 |
@@ -128,7 +129,6 @@ Please open a PR if you want your account linked here (or if you would like your
 | Pieter Lange | 2 |
 | Rossella De Gaetano | 2 |
 | Tugdual Grall | 2 |
-| Ivan Topolnjak | 2 |
 | Lauren Schaefer | 2 |
 | Roman Ivanov | 2 |
 | Paweł Rzeszuciński | 2 |

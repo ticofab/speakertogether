@@ -14,19 +14,18 @@ object CsvUtil {
     * @param csvFileName the name of the resource file
     * @return a list of all entries
     */
-  def parseSpeakerCsv(csvFileName: String): List[Speaker] = {
+  def parseSpeakerCsv(csvFileName: String): List[SpeakerCsvEntry] = {
     implicit val decoder: CellDecoder[LocalDate] = localDateDecoder(
       fmt"dd MMM yyyy"
     )
 
-    implicit val speakerDecoder: RowDecoder[Speaker] = RowDecoder.ordered {
-      (i: LocalDate, c: String, n: String) =>
-        Speaker(i, c, n, StringUtils.normalize(n).toLowerCase)
+    implicit val speakerDecoder: RowDecoder[SpeakerCsvEntry] = RowDecoder.ordered {
+      (i: LocalDate, c: String, n: String) => SpeakerCsvEntry(i, c, n)
     }
 
     getClass
       .getResource("/" + csvFileName)
-      .readCsv[List, Speaker](rfc)
+      .readCsv[List, SpeakerCsvEntry](rfc)
       .filter {
         case Left(err) =>
           println("error in parsing:" + err)
