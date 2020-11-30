@@ -15,12 +15,12 @@ For instance, this is how many times I crossed before the speakers of JLove 2020
 
 ## Evolution of this project
 
-I am going to update this project with as my speaking data grows.
+I am going to update these stats as my speaking data grows.
 
 While I don't plan to make this more complex than it is now, if other folks find this
 interesting, we could work together and expand both dataset and functionality.
 
-## Speakers at a common event (at least twice)
+## Speakers at the same event as myself (at least twice)
 
 Please open a PR if you want your account linked here (or if you would like your name removed).
 
@@ -128,6 +128,7 @@ Please open a PR if you want your account linked here (or if you would like your
 | Pieter Lange | 2 |
 | Rossella De Gaetano | 2 |
 | Tugdual Grall | 2 |
+| Ivan Topolnjak | 2 |
 | Lauren Schaefer | 2 |
 | Roman Ivanov | 2 |
 | Paweł Rzeszuciński | 2 |
