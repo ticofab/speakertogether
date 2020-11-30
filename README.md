@@ -5,11 +5,11 @@ and it looks like this trend is not reversing anytime soon. One of the
 things I miss the most about the IRL events are the speaker dinners.
 
 While looking at the [JLove 2020](https://jlove.konfy.care/) speakers,
-I wondered how many of them I "crossed" at previous conferences without even realizing.
-So I sat down, collected data from all the events that I spoke at before
-and wrote this little scripty app to crunch the (tiny) numbers.
+I wondered how many of them I "crossed" at previous conferences, maybe 
+without even realizing. So I sat down, collected data from all the events
+that I spoke at before and wrote this little scripty app to crunch the (tiny) numbers.
 
-For instance, this is how many times I crossed before the speakers of JLove 2020:
+For instance, this is how many past speaking events I have in common with other speakers of JLove 2020:
 
 ![JLove speakers I crossed previously](jlovespeakers.png)
 
