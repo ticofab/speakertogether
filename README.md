@@ -32,6 +32,7 @@ Please open a PR if you want your account linked here (or if you would like your
 | Hugh McKee | 5 |
 | [Alessandro Vozza](https://twitter.com/bongo) | 4 |
 | Jacek Kunicki | 4 |
+| Mark Heckler | 4 |
 | Renato Cavalcanti | 4 |
 | Holly Cummins | 4 |
 | Yan Cui | 4 |
@@ -47,23 +48,27 @@ Please open a PR if you want your account linked here (or if you would like your
 | Thiago de Faria | 3 |
 | Venkat Subramaniam | 3 |
 | Alessandro Confetti | 3 |
-| Mark Heckler | 3 |
 | James Thomas | 3 |
 | [Nicolas Rinaudo](https://twitter.com/NicolasRinaudo) | 3 |
+| Mary Grygleski | 3 |
 | Liz Rice | 3 |
 | Daniela Sfregola | 3 |
 | Stéphane Tankoua | 3 |
+| Lauren Schaefer | 3 |
 | Jettro Coenradie | 3 |
 | Eugene Yokota | 3 |
 | Jarek Ratajski | 3 |
 | Alessandro (cirpo) Cinelli | 3 |
+| James Ward | 3 |
 | Krzysztof Romanowski | 3 |
 | Adam Warski | 3 |
 | Oli Makhasoeva | 3 |
 | Daniel Gebler | 3 |
+| Baruch Sadogursky | 3 |
 | Viktor Gamov | 3 |
 | Mikhail Mutcianko | 3 |
 | Nicolas Frankel | 3 |
+| Reza Rahman | 3 |
 | Armagan Amcalar | 2 |
 | Erik Veld | 2 |
 | Alex Soto | 2 |
@@ -103,36 +108,41 @@ Please open a PR if you want your account linked here (or if you would like your
 | [Paulo Lopes](https://twitter.com/pml0pes) | 2 |
 | Luka Jacobowitz | 2 |
 | Mata Haggis | 2 |
+| Micah Silverman | 2 |
+| Bernd Ruecker | 2 |
 | Anne Currie | 2 |
+| Graeme Rocher | 2 |
 | Kai Waehner | 2 |
 | Wojtek Pituła | 2 |
 | Nick Tune | 2 |
 | Andres Almiray | 2 |
 | Cristiano Rastelli | 2 |
 | Dennis van der Bij | 2 |
-| Jörg Schad | 2 |
-| Bruce Lawson | 2 |
 | Stève Sfartz | 2 |
+| Jörg Schad | 2 |
+| Mohamed Taman | 2 |
+| Bruce Lawson | 2 |
 | Francois Laroche | 2 |
 | Ricardo Ferreira | 2 |
 | Cornelia Davis | 2 |
+| Josh Long | 2 |
 | Marcin Rzeźnicki | 2 |
+| Grace Jansen | 2 |
 | John De Goes | 2 |
 | Michał Jakóbczyk | 2 |
 | Anuraag Verma | 2 |
 | Hadi Hariri | 2 |
 | Ruslan Shevchenko | 2 |
-| Mary Grygleski | 2 |
 | Natan Silnitsky | 2 |
 | Mike Amundsen | 2 |
 | Sergey Bykov | 2 |
 | Pieter Lange | 2 |
 | Rossella De Gaetano | 2 |
 | Tugdual Grall | 2 |
-| Lauren Schaefer | 2 |
 | Roman Ivanov | 2 |
 | Paweł Rzeszuciński | 2 |
 | Ivan Topolnjak | 2 |
+| Kirk Pepperdine | 2 |
 | Bert Jan Schrijver | 2 |
 | Guillaume Martres | 2 |
 | Avinash Changa | 2 |
@@ -141,11 +151,13 @@ Please open a PR if you want your account linked here (or if you would like your
 | Matt Jarvis | 2 |
 | Manuel Bernhardt | 2 |
 | Dave Lewis | 2 |
-| James Ward | 2 |
 | Eric Loots | 2 |
 | Trisha Gee | 2 |
+| Nathaniel Schutta | 2 |
 | Joost Heijkoop | 2 |
 | Paweł Kamiński | 2 |
+| Markus Eisele | 2 |
+| Emily Jiang | 2 |
 | Ayush Mittal | 2 |
 | Maria Gómez | 2 |
 | Phil Nash | 2 |
@@ -154,6 +166,7 @@ Please open a PR if you want your account linked here (or if you would like your
 | Mateusz Ziarko | 2 |
 | Matteo Valoriani | 2 |
 | Artur Skowroński | 2 |
+| Simon Ritter | 2 |
 | Li Haoyi | 2 |
 | Sasha Romijn | 2 |
 | Bart Enkelaar | 2 |

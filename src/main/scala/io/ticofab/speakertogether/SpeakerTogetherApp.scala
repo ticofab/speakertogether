@@ -1,6 +1,6 @@
 package io.ticofab.speakertogether
 
-import io.ticofab.speakertogether.CsvUtil.parseSpeakerCsv
+import io.ticofab.speakertogether.CsvUtil.{parseSpeakerCsv, printOutConferenceCsv}
 import io.ticofab.speakertogether.MarkdownUtil.createMarkdownTable
 
 object SpeakerTogetherApp extends App {
@@ -59,7 +59,7 @@ object SpeakerTogetherApp extends App {
     .toMap
 
   // used to print out a file for a specific conference
-  // printOutConferenceCsv("jlove2020", forAllConf("JLove 2020"))
+  printOutConferenceCsv("DevNexus2021", forAllConf("DevNexus 2021"))
 
   println("read " + speakers.size + " speakers from " + groupedByConf.keys.size + " conferences")
 
