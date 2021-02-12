@@ -36,37 +36,6 @@ object SpeakerTogetherApp extends App {
     case (_, i, events) => i > 1 && events.contains(latestEvent)
   })
 
-  // same info bu collected by event
-  val forAllConf = allConferences
-    .map { conference =>
-      {
-        val speakersAtThisConference = groupedByConf(conference).toSet.map[String](_.normalizedName)
-        val timesISpokeWithOtherSpeakerAtThisConference = atLeastTwoOccurrences
-          .filter {
-            case (normalizedName, _) =>
-              speakersAtThisConference.contains(normalizedName)
-          }
-          .view
-          // map into a tuple with speaker name and times we spoke together
-          .mapValues(list => (list.head.name, list.size))
-          .toMap
-          .toList
-          .map { case (_, tuple) => tuple }
-          // remove myself from this list
-          .filter { case (name, _) => name != myName }
-          // sort descending
-          .sortBy { case (_, occ) => occ }
-          .reverse
-
-        (conference, timesISpokeWithOtherSpeakerAtThisConference)
-      }
-    }
-    .filter { case (_, list) => list.size > 1 }
-    .toMap
-
-  // used to print out a file for a specific conference
-  // printOutConferenceCsv("DevNexus2021", forAllConf(latestEvent))
-
   println("read " + speakers.size + " speakers from " + groupedByConf.keys.size + " conferences")
 
 }

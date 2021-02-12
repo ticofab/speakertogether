@@ -3,12 +3,13 @@ package io.ticofab.speakertogether
 import java.time.LocalDate
 
 case class SpeakerCsvEntry(date: LocalDate, conference: String, name: String)
+
 case class SpeakerEnriched(
-                            date: LocalDate,
-                            conference: String,
-                            name: String,
-                            normalizedName: String,
-                            maybeTwUrl: Option[String]
+    date: LocalDate,
+    conference: String,
+    name: String,
+    normalizedName: String,
+    maybeTwUrl: Option[String]
 )
 
 object SpeakerEnriched {

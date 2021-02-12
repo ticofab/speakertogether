@@ -16,8 +16,6 @@ I am going to update these stats as my speaking data grows.
 While I don't plan to make this more complex than it is now, if other folks find this
 interesting, we could work together and expand both dataset and functionality.
 
-Please open a PR if you want your account linked here (or if you would like your name removed).
-
 ## Speakers of DevNexus 2021 that spoke at the same event as myself at least once before (wow that's a mouthful)
 
 | Name | Events in common | Events |
