@@ -22,10 +22,10 @@ interesting, we could work together and expand both dataset and functionality.
 
 Please open a PR if you want your account linked here (or if you would like your name removed).
 
-## Speakers in common at the latest event: **DevNexus 2021**
+## Speakers of DevNexus 2021 that spoke at the same event as myself at least once before (wow that's a mouthful)
 
-| Name | # of crossings | Events in common |
-| :--- | :------------- | :--------------- |
+| Name | Events in common | Events |
+| :--- | :--------------- | :----- |
 | Mark Heckler | 4 | Codemotion Amsterdam 2016, Codemotion Amsterdam 2017, JFuture 2020, DevNexus 2021 |
 | Mary Grygleski | 3 | Codemotion Rome 2019, JLove 2020, DevNexus 2021 |
 | Lauren Schaefer | 3 | Big Mountain Data & Dev 2020, Big Mountain Data & Dev 2020, DevNexus 2021 |
@@ -46,8 +46,8 @@ Please open a PR if you want your account linked here (or if you would like your
 
 ## Speakers at the same event as myself (at least twice) of all times
 
-| Name | # of crossings | Events in common |
-| :--- | :------------- | :--------------- |
+| Name | Events in common | Events |
+| :--- | :--------------- | :----- |
 | [Adam Sandor](https://twitter.com/adamsand0r) | 8 | Reactive Amsterdam meetup Apr 2018, Software Circus meetup Aug 2018, Reactive Summit 2018, O'Reilly SA Conference London 2018, ITNEXT Summit 2018, Codemotion Berlin 2018, Google CloudFest 2018, Codemotion Rome 2019 |
 | Jon Pretty | 7 | React Sphere 2018, LX Scala & Reactive 2019, React Sphere 2019, Scala IO 2019, BeeScala 2019, Scalar Online 2020, JLove 2020 |
 | Justin Kaeser | 5 | React Sphere 2018, LX Scala & Reactive 2019, React Sphere 2019, Scala Love 2020, Scala Love 2020 |
