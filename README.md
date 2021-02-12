@@ -9,10 +9,6 @@ I wondered how many of them I "crossed" at previous conferences, maybe
 without even realizing. So I sat down, collected data from all the events
 that I spoke at before and wrote this little scripty app to crunch the (tiny) numbers.
 
-For instance, this is how many past speaking events I have in common with other speakers of JLove 2020:
-
-![JLove speakers I crossed previously](jlovespeakers.png)
-
 ## Evolution of this project
 
 I am going to update these stats as my speaking data grows.
