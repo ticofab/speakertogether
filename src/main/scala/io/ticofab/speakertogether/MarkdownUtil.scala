@@ -1,11 +1,11 @@
 package io.ticofab.speakertogether
 
 object MarkdownUtil {
-  def createMarkdownTable(speakersList: List[(String, Int)]): String = {
+  def createMarkdownTable(speakersList: List[(String, Int, List[String])]): String = {
     val sb = new StringBuilder
-    sb ++= "| Name | Events in common |\n"
-    sb ++= "| :--- | :--------------- |\n"
-    speakersList.foreach { case (name, occ) => sb ++= "| " + name + " | " + occ + " |\n" }
+    sb ++= "| Name | # of crossings | Events in common |\n"
+    sb ++= "| :--- | :------------- | :--------------- |\n"
+    speakersList.foreach { case (name, occ, conferences) => sb ++= "| " + name + " | " + occ + " |" + conferences.map(" " + _).mkString(",") + " |\n" }
     sb.toString()
   }
 }
