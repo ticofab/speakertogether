@@ -25,9 +25,7 @@ interesting, we could work together and expand both dataset and functionality.
 | James Ward | 3 | Scala Love 2020, JLove 2020, DevNexus 2021 |
 | Baruch Sadogursky | 3 | Developer Week Global 2020, DevNexus 2021, DevNexus 2021 |
 | Reza Rahman | 3 | JLove 2020, DevNexus 2021, DevNexus 2021 |
-| Micah Silverman | 2 | DevNexus 2021, DevNexus 2021 |
 | Bernd Ruecker | 2 | Codemotion Berlin 2018, DevNexus 2021 |
-| Graeme Rocher | 2 | DevNexus 2021, DevNexus 2021 |
 | Mohamed Taman | 2 | JLove 2020, DevNexus 2021 |
 | Josh Long | 2 | JLove 2020, DevNexus 2021 |
 | Grace Jansen | 2 | JLove 2020, DevNexus 2021 |
