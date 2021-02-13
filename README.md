@@ -23,11 +23,11 @@ interesting, we could work together and expand both dataset and functionality.
 | Mark Heckler | 4 | Codemotion Amsterdam 2016, Codemotion Amsterdam 2017, JFuture 2020, DevNexus 2021 |
 | Mary Grygleski | 3 | Codemotion Rome 2019, JLove 2020, DevNexus 2021 |
 | James Ward | 3 | Scala Love 2020, JLove 2020, DevNexus 2021 |
-| Reza Rahman | 3 | JLove 2020, DevNexus 2021, DevNexus 2021 |
 | Bernd Ruecker | 2 | Codemotion Berlin 2018, DevNexus 2021 |
 | Mohamed Taman | 2 | JLove 2020, DevNexus 2021 |
 | Baruch Sadogursky | 2 | Developer Week Global 2020, DevNexus 2021 |
 | Josh Long | 2 | JLove 2020, DevNexus 2021 |
+| Reza Rahman | 2 | JLove 2020, DevNexus 2021 |
 | Grace Jansen | 2 | JLove 2020, DevNexus 2021 |
 | Kirk Pepperdine | 2 | JLove 2020, DevNexus 2021 |
 | Lauren Schaefer | 2 | Big Mountain Data & Dev 2020, DevNexus 2021 |
@@ -80,7 +80,6 @@ interesting, we could work together and expand both dataset and functionality.
 | Viktor Gamov | 3 | Scala Love 2020, Big Mountain Data & Dev 2020, JLove 2020 |
 | Mikhail Mutcianko | 3 | React Sphere 2018, React Sphere 2019, Scala Love 2020 |
 | Nicolas Frankel | 3 | JFuture 2020, Big Mountain Data & Dev 2020, JLove 2020 |
-| Reza Rahman | 3 | JLove 2020, DevNexus 2021, DevNexus 2021 |
 | Armagan Amcalar | 2 | Codemotion Amsterdam 2018, Codemotion Berlin 2018 |
 | Erik Veld | 2 | Codemotion Amsterdam 2018, Google CloudFest 2018 |
 | Alex Soto | 2 | JFuture 2020, JLove 2020 |
@@ -90,6 +89,7 @@ interesting, we could work together and expand both dataset and functionality.
 | Bruno Bossola | 2 | Codemotion Amsterdam 2016, Codemotion Amsterdam 2018 |
 | Grzegorz Gawron | 2 | React Sphere 2018, React Sphere 2019 |
 | Jamie Allen | 2 | React Sphere 2018, Reactive Summit 2018 |
+| Reza Rahman | 2 | JLove 2020, DevNexus 2021 |
 | Mete Atamel | 2 | Codemotion Amsterdam 2017, Codemotion Amsterdam 2018 |
 | Annarita De Biase | 2 | Codemotion Amsterdam 2018, Codemotion Rome 2019 |
 | Christophe Calvès | 2 | Scala IO 2019, Scalar Online 2020 |
@@ -191,7 +191,7 @@ interesting, we could work together and expand both dataset and functionality.
 
 ## License
 
-    Copyright 2020 Fabio Tiriticco - Fabway
+    Copyright 2020-2021 Fabio Tiriticco - Fabway
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
