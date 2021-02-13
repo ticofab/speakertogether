@@ -22,7 +22,6 @@ interesting, we could work together and expand both dataset and functionality.
 | :--- | :--------------- | :----- |
 | Mark Heckler | 4 | Codemotion Amsterdam 2016, Codemotion Amsterdam 2017, JFuture 2020, DevNexus 2021 |
 | Mary Grygleski | 3 | Codemotion Rome 2019, JLove 2020, DevNexus 2021 |
-| Lauren Schaefer | 3 | Big Mountain Data & Dev 2020, Big Mountain Data & Dev 2020, DevNexus 2021 |
 | James Ward | 3 | Scala Love 2020, JLove 2020, DevNexus 2021 |
 | Baruch Sadogursky | 3 | Developer Week Global 2020, DevNexus 2021, DevNexus 2021 |
 | Reza Rahman | 3 | JLove 2020, DevNexus 2021, DevNexus 2021 |
@@ -33,6 +32,7 @@ interesting, we could work together and expand both dataset and functionality.
 | Josh Long | 2 | JLove 2020, DevNexus 2021 |
 | Grace Jansen | 2 | JLove 2020, DevNexus 2021 |
 | Kirk Pepperdine | 2 | JLove 2020, DevNexus 2021 |
+| Lauren Schaefer | 2 | Big Mountain Data & Dev 2020, DevNexus 2021 |
 | Nathaniel Schutta | 2 | O'Reilly SA Conference London 2018, DevNexus 2021 |
 | Markus Eisele | 2 | JLove 2020, DevNexus 2021 |
 | Emily Jiang | 2 | JLove 2020, DevNexus 2021 |
@@ -70,7 +70,6 @@ interesting, we could work together and expand both dataset and functionality.
 | Liz Rice | 3 | J On The Beach 2018, O'Reilly SA Conference London 2018, Software Circus Conference 2020 |
 | Daniela Sfregola | 3 | Scala Italy 2018, Scala IO 2019, London Scala Community Day 2019 |
 | Stéphane Tankoua | 3 | Scala IO 2019, Scala UA 2020, Scala Love 2020 |
-| Lauren Schaefer | 3 | Big Mountain Data & Dev 2020, Big Mountain Data & Dev 2020, DevNexus 2021 |
 | Jettro Coenradie | 3 | Codemotion Amsterdam 2016, Codemotion Amsterdam 2017, Codemotion Amsterdam 2018 |
 | Eugene Yokota | 3 | React Sphere 2018, React Sphere 2019, Scala Love 2020 |
 | Jarek Ratajski | 3 | Codemotion Rome 2019, LX Scala & Reactive 2019, Scalar Online 2020 |
@@ -108,6 +107,7 @@ interesting, we could work together and expand both dataset and functionality.
 | Roksolana Diachuk | 2 | Scala IO 2019, Scala UA 2020 |
 | Gabriele Petronella | 2 | React Sphere 2018, Codemotion Rome 2019 |
 | Matteo Collina | 2 | Codemotion Amsterdam 2016, ITNEXT Summit 2018 |
+| Lauren Schaefer | 2 | Big Mountain Data & Dev 2020, DevNexus 2021 |
 | Matthew Opala | 2 | React Sphere 2018, React Sphere 2019 |
 | Vladik Khononov | 2 | Codemotion Amsterdam 2018, O'Reilly SA Conference London 2018 |
 | Bernd Rücker | 2 | Codemotion Amsterdam 2018, O'Reilly SA Conference London 2018 |
