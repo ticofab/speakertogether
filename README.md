@@ -77,7 +77,6 @@ interesting, we could work together and expand both dataset and functionality.
 | Adam Warski | 3 | Scala Love 2020, Scalar Online 2020, JLove 2020 |
 | Oli Makhasoeva | 3 | Scala IO 2019, Scala UA 2020, JLove 2020 |
 | Daniel Gebler | 3 | Codemotion Amsterdam 2017, Codemotion Amsterdam 2018, Codemotion Berlin 2018 |
-| Baruch Sadogursky | 2 | Developer Week Global 2020, DevNexus 2021 |
 | Viktor Gamov | 3 | Scala Love 2020, Big Mountain Data & Dev 2020, JLove 2020 |
 | Mikhail Mutcianko | 3 | React Sphere 2018, React Sphere 2019, Scala Love 2020 |
 | Nicolas Frankel | 3 | JFuture 2020, Big Mountain Data & Dev 2020, JLove 2020 |
@@ -98,6 +97,7 @@ interesting, we could work together and expand both dataset and functionality.
 | Martin Odersky | 2 | React Sphere 2019, Scala Love 2020 |
 | John Stevenson | 2 | Codemotion Amsterdam 2016, Codemotion Amsterdam 2017 |
 | Iulian Dragoș | 2 | React Sphere 2018, React Sphere 2019 |
+| Baruch Sadogursky | 2 | Developer Week Global 2020, DevNexus 2021 |
 | Danilo Poccia | 2 | Codemotion Amsterdam 2018, Codemotion Berlin 2018 |
 | Vincent de Haan | 2 | LX Scala & Reactive 2019, Scala UA 2020 |
 | Kenny Baas | 2 | React Sphere 2018, Codemotion Amsterdam 2018 |
@@ -122,7 +122,6 @@ interesting, we could work together and expand both dataset and functionality.
 | [Paulo Lopes](https://twitter.com/pml0pes) | 2 | Codemotion Amsterdam 2017, Codemotion Amsterdam 2018 |
 | Luka Jacobowitz | 2 | Scala Italy 2018, Scala Love 2020 |
 | Mata Haggis | 2 | Codemotion Amsterdam 2017, Codemotion Amsterdam 2018 |
-| Micah Silverman | 2 | DevNexus 2021, DevNexus 2021 |
 | Bernd Ruecker | 2 | Codemotion Berlin 2018, DevNexus 2021 |
 | Anne Currie | 2 | Codemotion Amsterdam 2017, Software Circus Conference 2020 |
 | Kai Waehner | 2 | Codemotion Amsterdam 2018, Codemotion Berlin 2018 |
