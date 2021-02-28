@@ -47,6 +47,7 @@ interesting, we could work together and expand both dataset and functionality.
 | Viktor Gamov | 4 | Scala Love 2020, Big Mountain Data & Dev 2020, JLove 2020, SnowOne 2021 |
 | Yan Cui | 4 | React Sphere 2018, O'Reilly SA Conference London 2018, Codemotion Berlin 2018, React Sphere 2019 |
 | Sander Hoogendoorn | 3 | Codemotion Amsterdam 2016, Codemotion Amsterdam 2018, Codemotion Rome 2019 |
+| [Jakub Kozłowski](https://twitter.com/kubukoz) | 3 | LX Scala & Reactive 2019, London Scala Community Day 2019, Scala UA 2020 |
 | Philipp Krenn | 3 | Codemotion Amsterdam 2016, React Sphere 2018, React Sphere 2019 |
 | Robin Moffatt | 3 | React Sphere 2019, JFuture 2020, Big Mountain Data & Dev 2020 |
 | Melanie Rieback | 3 | Codemotion Amsterdam 2017, Codemotion Amsterdam 2018, Codemotion Rome 2019 |
@@ -80,7 +81,6 @@ interesting, we could work together and expand both dataset and functionality.
 | Armagan Amcalar | 2 | Codemotion Amsterdam 2018, Codemotion Berlin 2018 |
 | Erik Veld | 2 | Codemotion Amsterdam 2018, Google CloudFest 2018 |
 | Alex Soto | 2 | JFuture 2020, JLove 2020 |
-| Jakub Kozłowski | 2 | LX Scala & Reactive 2019, Scala UA 2020 |
 | Omosola Odetunde | 2 | Codemotion Berlin 2018, Codemotion Rome 2019 |
 | Ivan Jovanovic | 2 | Codemotion Rome 2019, React Sphere 2019 |
 | Grzegorz Gawron | 2 | React Sphere 2018, React Sphere 2019 |
