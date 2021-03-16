@@ -13,7 +13,7 @@ object SpeakerTogetherApp extends App {
   val groupedBySpeaker = speakers.groupBy(_.normalizedName)
   val atLeastTwoOccurrences = groupedBySpeaker.filter { case (_, occ) => occ.size > 1 }
   val myName = "Fabio Tiriticco"
-  val latestEvent = "SnowOne 2021"
+  val latestEvent = "GIDS Live 2021"
 
   var speakersByAmountOfCrossingsWithMe = groupedBySpeaker.toList
     .sortBy { case (_, occ) => occ.size }
