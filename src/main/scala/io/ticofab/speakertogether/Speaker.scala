@@ -28,7 +28,10 @@ object SpeakerEnriched {
     "nicolas rinaudo" -> "NicolasRinaudo",
     "pierangelo cecchetto" -> "pierangelocecc",
     "paulo lopes" -> "pml0pes",
-    "jakub kozowski" -> "kubukoz"
+    "jakub kozowski" -> "kubukoz",
+    "mary grygleski" -> "mgrygles",
+    "jon pretty" -> "propensive",
+    "renato cavalcanti" -> "octonato"
   )
 
 }

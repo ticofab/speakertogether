@@ -21,7 +21,7 @@ interesting, we could work together and expand both dataset and functionality.
 | Name | Events in common | Events |
 | :--- | :--------------- | :----- |
 | [Adam Sandor](https://twitter.com/adamsand0r) | 9 | Reactive Amsterdam meetup Apr 2018, Software Circus meetup Aug 2018, Reactive Summit 2018, O'Reilly SA Conference London 2018, ITNEXT Summit 2018, Codemotion Berlin 2018, Google CloudFest 2018, Codemotion Rome 2019, Geekle Java Summit 2021 |
-| Mary Grygleski | 6 | Codemotion Rome 2019, JLove 2020, DevNexus 2021, SnowOne 2021, Geekle Java Summit 2021, GIDS Live 2021 |
+| [Mary Grygleski](https://twitter.com/mgrygles) | 6 | Codemotion Rome 2019, JLove 2020, DevNexus 2021, SnowOne 2021, Geekle Java Summit 2021, GIDS Live 2021 |
 | Nicolas Frankel | 5 | JFuture 2020, Big Mountain Data & Dev 2020, JLove 2020, Geekle Java Summit 2021, GIDS Live 2021 |
 | Reza Rahman | 4 | JLove 2020, DevNexus 2021, Geekle Java Summit 2021, GIDS Live 2021 |
 | Otavio Santana | 2 | SnowOne 2021, Geekle Java Summit 2021 |
@@ -37,17 +37,17 @@ interesting, we could work together and expand both dataset and functionality.
 | Name | Events in common | Events |
 | :--- | :--------------- | :----- |
 | [Adam Sandor](https://twitter.com/adamsand0r) | 9 | Reactive Amsterdam meetup Apr 2018, Software Circus meetup Aug 2018, Reactive Summit 2018, O'Reilly SA Conference London 2018, ITNEXT Summit 2018, Codemotion Berlin 2018, Google CloudFest 2018, Codemotion Rome 2019, Geekle Java Summit 2021 |
-| Jon Pretty | 7 | React Sphere 2018, LX Scala & Reactive 2019, React Sphere 2019, Scala IO 2019, BeeScala 2019, Scalar Online 2020, JLove 2020 |
-| Mary Grygleski | 6 | Codemotion Rome 2019, JLove 2020, DevNexus 2021, SnowOne 2021, Geekle Java Summit 2021, GIDS Live 2021 |
-| Justin Kaeser | 5 | React Sphere 2018, LX Scala & Reactive 2019, React Sphere 2019, Scala Love 2020, Scala Love 2020 |
+| [Jon Pretty](https://twitter.com/propensive) | 7 | React Sphere 2018, LX Scala & Reactive 2019, React Sphere 2019, Scala IO 2019, BeeScala 2019, Scalar Online 2020, JLove 2020 |
+| [Mary Grygleski](https://twitter.com/mgrygles) | 6 | Codemotion Rome 2019, JLove 2020, DevNexus 2021, SnowOne 2021, Geekle Java Summit 2021, GIDS Live 2021 |
 | Mark Heckler | 5 | Codemotion Amsterdam 2016, Codemotion Amsterdam 2017, JFuture 2020, DevNexus 2021, GIDS Live 2021 |
 | Hugh McKee | 5 | Reactive Summit 2018, LX Scala & Reactive 2019, React Sphere 2019, London Scala Community Day 2019, JFuture 2020 |
 | Nicolas Frankel | 5 | JFuture 2020, Big Mountain Data & Dev 2020, JLove 2020, Geekle Java Summit 2021, GIDS Live 2021 |
 | [Alessandro Vozza](https://twitter.com/bongo) | 4 | Codemotion Amsterdam 2017, Codemotion Amsterdam 2018, ITNEXT Summit 2018, Codemotion Rome 2019 |
 | Venkat Subramaniam | 4 | J On The Beach 2018, Codemotion Rome 2019, JLove 2020, GIDS Live 2021 |
 | Jacek Kunicki | 4 | React Sphere 2018, BeeScala 2019, Scala Love 2020, Scalar Online 2020 |
+| Justin Kaeser | 4 | React Sphere 2018, LX Scala & Reactive 2019, React Sphere 2019, Scala Love 2020 |
 | Grace Jansen | 4 | JLove 2020, DevNexus 2021, SnowOne 2021, GIDS Live 2021 |
-| Renato Cavalcanti | 4 | Codemotion Amsterdam 2016, Reactive Summit 2018, React Sphere 2019, BeeScala 2019 |
+| [Renato Cavalcanti](https://twitter.com/octonato) | 4 | Codemotion Amsterdam 2016, Reactive Summit 2018, React Sphere 2019, BeeScala 2019 |
 | Holly Cummins | 4 | O'Reilly SA Conference London 2018, React Sphere 2019, JFuture 2020, JLove 2020 |
 | Viktor Gamov | 4 | Scala Love 2020, Big Mountain Data & Dev 2020, JLove 2020, SnowOne 2021 |
 | Yan Cui | 4 | React Sphere 2018, O'Reilly SA Conference London 2018, Codemotion Berlin 2018, React Sphere 2019 |
