@@ -16,7 +16,7 @@ I am going to update these stats as my speaking data grows.
 While I don't plan to make this more complex than it is now, if other folks find this
 interesting, we could work together and expand both dataset and functionality.
 
-## Speakers of DevTalks Reimagined 2021 that I crossed before at other events
+## Speakers at DevTalks Reimagined 2021 that I crossed before at other events
 
 | Name | Events in common | Events |
 | :--- | :--------------- | :----- |
