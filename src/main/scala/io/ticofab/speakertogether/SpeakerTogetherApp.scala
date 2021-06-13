@@ -5,15 +5,15 @@ import io.ticofab.speakertogether.MarkdownUtil.createMarkdownTable
 
 object SpeakerTogetherApp extends App {
 
-  val speakers = parseSpeakerCsv("allspeakersallevents.csv")
-    .map(SpeakerEnriched.fromSpeakerCsvEntry)
+  val parsedCsv = parseSpeakerCsv("allspeakersallevents.csv")
+  val speakers = parsedCsv.map(SpeakerEnriched.fromSpeakerCsvEntry)
   val groupedByConf = speakers.groupBy(_.conference)
   val allConferences = groupedByConf.keys.toSet
+  val latestEvent = parsedCsv.map(s => (s.conference, s.date)).maxBy { case (_, date) => date }
 
   val groupedBySpeaker = speakers.groupBy(_.normalizedName)
   val atLeastTwoOccurrences = groupedBySpeaker.filter { case (_, occ) => occ.size > 1 }
   val myName = "Fabio Tiriticco"
-  val latestEvent = "GIDS Live 2021"
 
   var speakersByAmountOfCrossingsWithMe = groupedBySpeaker.toList
     .sortBy { case (_, occ) => occ.size }
@@ -39,18 +39,3 @@ object SpeakerTogetherApp extends App {
   println("read " + speakers.size + " speakers from " + groupedByConf.keys.size + " conferences")
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
