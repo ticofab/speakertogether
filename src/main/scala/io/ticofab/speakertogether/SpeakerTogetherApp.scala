@@ -27,7 +27,7 @@ object SpeakerTogetherApp extends App {
     .filter { case (name, _, _) => name != myName }
 
   // used to generate the markdown that I manually copy/paste onto the readme file
-  val titleAll = "Speakers at the same event as myself (at least twice) of all times"
+  val titleAll = "Speakers at the same event as myself (at least twice) of all time"
   val markdownAll = createMarkdownTable(titleAll, speakersByAmountOfCrossingsWithMe.filter {
     case (_, i, _) => i > 1
   })

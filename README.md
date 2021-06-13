@@ -32,7 +32,7 @@ interesting, we could work together and expand both dataset and functionality.
 | Edson Yanaga | 2 | Geekle Java Summit 2021, DevTalks Reimagined 2021 |
 | Javier Ramirez | 2 | Codemotion Amsterdam 2016, DevTalks Reimagined 2021 |
 
-## Speakers at the same event as myself (at least twice) of all times
+## Speakers at the same event as myself (at least twice) of all time
 
 | Name | Events in common | Events |
 | :--- | :--------------- | :----- |
